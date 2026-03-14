@@ -40,10 +40,14 @@ Bucket properties and configurations
 
     Versioning: Versioning allows you to keep multiple versions of an object in the bucket. It helps protect against accidental deletions or overwrites.
 
+
 Bucket-level permissions and policies
 
 Bucket-level permissions and policies define who can access and perform actions on the bucket. You can grant permissions using IAM (Identity and Access Management) policies, 
 which allow fine-grained control over user access to the bucket and its objects.
+
+
+<img width="3721" height="1784" alt="Image" src="https://github.com/user-attachments/assets/928c8140-c4df-4c51-b008-3511f1770a05" />
 
 ## Uploading and Managing Objects in S3 Buckets
 
@@ -52,10 +56,14 @@ Uploading objects to S3 buckets
 You can upload objects to an S3 bucket using various methods, including the AWS Management Console, AWS CLI, SDKs, and direct HTTP uploads. 
 Each object is assigned a unique key (name) within the bucket to retrieve it later.
 
+<img width="3724" height="1787" alt="Image" src="https://github.com/user-attachments/assets/29dc5c5f-d3b2-4c6c-8509-544714023dea" />
+
 Object metadata and properties
 
 Object metadata contains additional information abouteach object in an S3 bucket. It includes attributes like content type, cache control, encryption settings, 
 and custom metadata. These properties help in managing and organizing objects within the bucket.
+
+<img width="3710" height="1801" alt="Image" src="https://github.com/user-attachments/assets/4d04c0be-13a3-4de5-8cc9-87441ef6ad43" />
 
 File formats and object encryption
 
@@ -77,14 +85,19 @@ Managing large datasets with S3 Batch Operations
 S3 Batch Operations is a feature that allows you to perform bulk operations on large numbers of objects in an S3 bucket. 
 It provides an efficient way to automate tasks such as copying objects, tagging, and restoring archived data.
 
+S3 BUCKET POLICY:
+
+<img width="3717" height="1795" alt="Image" src="https://github.com/user-attachments/assets/298a2b2a-14ea-49f1-b753-23bcd3bea56f" />
+
 ## Advanced S3 Bucket Features
 
 S3 Storage Classes
 
 S3 offers multiple storage classes, each designed for different use cases and performance requirements:
 
-![Screenshot 2023-07-06 at 7 16 51 PM](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/6b1ebcda-5b99-4358-ac1a-5bf559140571)
+WEB HOSTING LINK :
 
+<img width="3725" height="1795" alt="Image" src="https://github.com/user-attachments/assets/aa2e0405-b2b7-4115-b25f-66d3c36c5735" />
 
 S3 Replication
 
@@ -95,6 +108,10 @@ S3 Event Notifications and Triggers
 
 S3 event notifications allow you to configure actions when specific events occur in an S3 bucket. For example, you can trigger AWS Lambda functions, send messages to Amazon
 Simple Queue Service (SQS), or invoke other services using Amazon SNS when an object is created or deleted.
+
+HOW TO UPLODE BUCKET POLICY:
+
+<img width="3714" height="1802" alt="Image" src="https://github.com/user-attachments/assets/af58c5d1-0987-4313-9283-6aa93fc0a92d" />
 
 S3 Batch Operations
 
