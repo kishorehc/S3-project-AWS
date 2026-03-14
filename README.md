@@ -1,7 +1,7 @@
 # AWS S3
 
 ## About 
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e87907f2-ee14-4bc4-a587-f0fb27686706" />
 What is Amazon S3?
 
 Simple Storage Service is a scalable and secure cloud storage service provided by Amazon Web Services (AWS). It allows you to store and retrieve any amount of data from anywhere on the web.
